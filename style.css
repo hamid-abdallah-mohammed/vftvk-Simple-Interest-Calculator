@@ -1,14 +1,14 @@
-
+// body
 body {
     background-color:black; 
     color: white;
 }
-
+// head
 h1{
     color:grey;
     font-family: verdana;
 }
-
+// the main div that contains the whole project
 .maindiv{
     background-color: white;
      color: black;
@@ -22,6 +22,7 @@ h1{
      
 }
 
+// el is a short class for every div taht in the maindiv class
 .el{
    margin-bottom: 10px;
    margin-left: 50px;
@@ -33,20 +34,21 @@ h1{
 
 .el input[type= "range"]{
      width: 115px;
-    
-    footer{
-    margin-left: 40px;
-}
-     margin-left: 20px;
-     
+    margin-left: 20px;
 }
 
-
+// age 
 .years select{
     margin-left: 21px;
     background-color: #fff;
     border: 1px solid #333;
     border-radius: 3px;
 }
-
+  // button compute
 .el button{margin-top: 5px;}
+// footer
+
+    footer{
+    margin-left: 40px;
+}
+ 
