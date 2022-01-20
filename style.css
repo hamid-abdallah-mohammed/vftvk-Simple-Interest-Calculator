@@ -33,6 +33,10 @@ h1{
 
 .el input[type= "range"]{
      width: 115px;
+    
+    footer{
+    margin-left: 40px;
+}
      margin-left: 20px;
      
 }
